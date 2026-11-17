@@ -1,0 +1,9 @@
+employee,department,shift,units_processed,hours_worked
+Alex,Picking,Morning,120,8
+Sam,Packing,Morning,95,8
+Jamie,Picking,Night,100,8
+Taylor,Dispatch,Night,110,8
+Morgan,Packing,Morning,105,8
+Jordan,Dispatch,Morning,130,8
+Casey,Picking,Night,115,8
+Riley,Packing,Night,90,8
